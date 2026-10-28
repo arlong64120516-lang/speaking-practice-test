@@ -423,7 +423,7 @@ if (isInApp) {
   document.getElementById('inAppWarning').style.display = 'block';
 }
 
-const GAS_URL = "https://script.google.com/macros/s/AKfycbxl86DfQJxa3rrIGX9fEFTz5sW-MYeZrH8Kvb1V5A8pyijeQjIVntKnfHCK8Na389O1/exec";
+const GAS_URL = "[https://script.google.com/macros/s/AKfycbxl86DfQJxa3rrIGX9fEFTz5sW-MYeZrH8Kvb1V5A8pyijeQjIVntKnfHCK8Na389O1/exec](https://script.google.com/macros/s/AKfycbwp34mStDSLlfw8XhZrr1HlM7s5AHp58xk-zC9GvfarhPkMjmHGXQKpoZUsNBKNJQw/exec)";
 
 // 常用英語資料庫
 const dailyEnglishPool = [
